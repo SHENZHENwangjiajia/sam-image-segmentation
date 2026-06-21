@@ -20,3 +20,9 @@ pip install opencv-python matplotlib numpy
 
 # 运行示例
 python demo.py
+
+## 实验效果
+
+![SAM分割示例](sam_result.png)
+
+上图展示了SAM模型对测试图片的自动分割结果，不同颜色轮廓代表检测到的不同对象区域。
